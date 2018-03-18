@@ -49,3 +49,8 @@ background-color:#FFFFFF;
    transition-duration: 0.4s;
    border:none;
 }
+.arbox{
+   width:380px;
+   height:80px;
+   font-family:amer;
+}
